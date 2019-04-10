@@ -23,7 +23,7 @@ Time spent: 8 hours spent in total
     - Vulnerability types: XXS in URL embed
     - Tested in version: 4.0
     - Fixed in version: 4.7
-  - [ ] GIF Walkthrough:(video) 
+  - [ ] GIF Walkthrough:https://github.com/ssyed23/week-7-8/blob/master/xxs1.gif 
   - [ ] Steps to recreate: 
   1. Log into account that is able to make posts.
   2. Edit a post and write code: 
