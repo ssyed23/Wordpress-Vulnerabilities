@@ -11,7 +11,7 @@ Time spent: 8 hours spent in total
     - Vulnerability types: User Enumeration
     - Tested in version: 4.2
     - Fixed in version: 
-  - [ ] GIF Walkthrough:(video) https://github.com/ssyed23/week-7-8/blob/master/user%20enum.mp4 
+  - [ ] GIF Walkthrough:https://github.com/ssyed23/week-7-8/blob/master/userenum.gif
   - [ ] Steps to recreate: 
   Try combinations of possible users and passwords. Look for message that implies the username exists even if the password is incorrect.
   - [ ] Affected source code:
