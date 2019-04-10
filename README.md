@@ -36,7 +36,7 @@ Time spent: 8 hours spent in total
     - Vulnerability types: XXS - allows users to inject potentially harmful code 
     - Tested in version: 4.2
     - Fixed in version: 4.6.1
-  - [ ] GIF Walkthrough:
+  - [ ] GIF Walkthrough:https://github.com/ssyed23/week-7-8/blob/master/xxs2.gif
   - [ ] Steps to recreate: 
   1. Log into account that allows user to make/edit posts.
   2. Make a new post and write code such as <img src=image oneerror=alert("XSS!")>
